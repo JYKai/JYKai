@@ -41,7 +41,7 @@ Master Degree of Electrical and Computer Engineering ```(03/2022 ~ 02/2024)``` (
 </span>
 
 <span>
-    <img src="https://img.shields.io/badge/ cplusplus-00599C?style=plastic&logo=C++&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ cplusplus-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/>
 </span>
 
 <span>
@@ -54,10 +54,6 @@ Master Degree of Electrical and Computer Engineering ```(03/2022 ~ 02/2024)``` (
 
 <span>
     <img src="https://img.shields.io/badge/ opencv-5C3EE8?style=plastic&logo=OpenCV&logoColor=white"/>
-</span>
-
-<span>
-    <img src="https://img.shields.io/badge/ scikitlearn-F7931E?style=plastic&logo=scikit-learng&logoColor=white"/>
 </span>
 
 <span>
