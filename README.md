@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <a href="noahyun1222@gmail.com" target="_blank"><img src="https://img.shields.io/badge/noahyun1222@gmail.com-3793EF?style=social&logo=maildotcom&logoColor=0F2B46"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYKai&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYKai&show_icons=true&theme=shadow_blue)
