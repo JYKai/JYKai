@@ -29,7 +29,7 @@ Reseach on deep learning & machine lerning for artificial intelligence
 
 ## EDUCATION & WORK EXPERIENCE
 AIFFEL, Artificial Intelligence Innovation School: Research Course, Incheon/South Korea ```(06/2021 ~ 12/2021)```  
-Sungkyunkwan University, Seoul/AI and Media Lab ```(03/2022 ~ 02/2024)```   
+Sungkyunkwan University, Seoul/AI & Media Lab ```(03/2022 ~ 02/2024)```   
 
 ## EDUCATION
 Bachelor Degree of Environmental Engineering ```(03/2013 ~ 08/2019)``` (Kongju National University, Cheonan)   
