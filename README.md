@@ -29,7 +29,7 @@ Reseach on deep learning & machine lerning for artificial intelligence
 
 ## EDUCATION & WORK EXPERIENCE
 AIFFEL, Artificial Intelligence Innovation School: Research Course, Incheon/South Korea ```(06/2021 ~ 12/2021)```  
-Sungkyunkwan University, Seoul/AI & Media Lab ```(03/2022 ~ 02/2024)```   
+Sungkyunkwan University, Seoul/AI and Media Lab ```(03/2022 ~ 02/2024)```   
 
 ## EDUCATION
 Bachelor Degree of Environmental Engineering ```(03/2013 ~ 08/2019)``` (Kongju National University, Cheonan)   
@@ -37,30 +37,45 @@ Master Degree of Electrical and Computer Engineering ```(03/2022 ~ 02/2024)``` (
 
 ## ADDITIONAL SKILLS
 <span>
-    <img src="https://img.shields.io/badge/ pytorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
-</span>
-<span>
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
 </span>
-   
+
 <span>
-    <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ cplusplus-00599C?style=plastic&logo=C++&logoColor=white"/>
 </span>
+
 <span>
-    <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ pytorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/>
 </span>
+
 <span>
-    <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white"/>
 </span>
+
 <span>
-    <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ opencv-5C3EE8?style=plastic&logo=OpenCV&logoColor=white"/>
 </span>
+
 <span>
-    <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ scikitlearn-F7931E?style=plastic&logo=scikit-learng&logoColor=white"/>
 </span>
+
+<span>
+    <img src="https://img.shields.io/badge/ scikitlearn-F7931E?style=plastic&logo=scikit-learng&logoColor=white"/>
+</span>
+
+<span>
+    <img src="https://img.shields.io/badge/ docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
+</span>
+
+<span>
+    <img src="https://img.shields.io/badge/ numpy-013243?style=plastic&logo=Numpy&logoColor=white"/>
+</span>
+
+<span>
+    <img src="https://img.shields.io/badge/ pandas-150458?style=plastic&logo=Pandas&logoColor=white"/>
+</span>
+
 
 ## Publications
 **J. Park et al. "Regression Network Utilizing Cosine Similarity for Measuring Motion Blur in Facial Videos"**  
