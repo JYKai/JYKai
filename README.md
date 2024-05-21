@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/label-0F2B46?style=social&logo=deepl&logoColor=0F2B46"/></a>
+<a href="noahyun1222@gmail.com" target="_blank"><img src="https://img.shields.io/badge/noahyun1222@gmail.com-3793EF?style=social&logo=maildotcom&logoColor=0F2B46"/></a>
