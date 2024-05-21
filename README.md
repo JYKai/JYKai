@@ -25,21 +25,19 @@
 <br><br>
 
 ## OBJECTIVE
-Reseach on deep learning
+Reseach on deep learning & machine lerning for artificial intelligence
 
-## WORK EXPERIENCE
-Math Academy, Seoul/South Korea ```(02/2016 ~ 07/2022)```  
-Teaching assistant for C language courses in Yonsei University, Seoul/South Korea ```(2020, 2021)```   
-Yonsei University/Digital Signal Processing Lab ```(05/2021 ~ 08/2021)```  
-Yonsei University, Seoul/Digital Image Media Lab ```(09/2021 ~ Present)```   
+## EDUCATION & WORK EXPERIENCE
+AIFFEL, Artificial Intelligence Innovation School: Research Course, Incheon/South Korea ```(06/2021 ~ 12/2021)```  
+Sungkyunkwan University, Seoul/AI & Media Lab ```(03/2022 ~ 02/2024)```   
 
 ## EDUCATION
-Bachelor Degree of Electrical and Electronic engineering ```(03/2016 ~ 08/2022)``` (Yonsei University, Seoul)   
-Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` (Yonsei University, Seoul)   
+Bachelor Degree of Environmental Engineering ```(03/2013 ~ 08/2019)``` (Kongju National University, Cheonan)   
+Master Degree of Electrical and Computer Engineering ```(03/2022 ~ 02/2024)``` (Inha University, Incheon)   
 
 ## ADDITIONAL SKILLS
 <span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ pytorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
