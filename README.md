@@ -41,7 +41,20 @@ Sungkyunkwan University, Seoul/AI & Media Lab ```(03/2022 ~ 02/2024)```
 Bachelor Degree of Environmental Engineering ```(03/2013 ~ 08/2019)``` (Kongju National University, Cheonan)   
 Master Degree of Electrical and Computer Engineering ```(03/2022 ~ 02/2024)``` (Inha University, Incheon)   
 
-## ADDITIONAL SKILLS
+## PUBLICATIONS
+**KIM, Jiyun; KIM, JooHo; HONG, Sungeun. "G-TRACE: Grouped temporal recalibration for video object segmentation."** <br>
+```Image and Vision Computing, 2024, 105050``` - International paper
+
+**김지윤, 홍성은, "외부 메모리 어텐션 기반 준지도 비디오 객체 분할"** <br>
+```방송공학회논문지, 28(5):613-622, 2023``` - Domestic paper
+
+**김지윤, 홍성은, "준지도 비디오 객체 분할에서의 어텐션 기반 마스크 예측 경향성 분석"** <br>
+```Institute of Electronics and Information Engineers``` - Conference poster
+
+**김지윤, 홍성은, "재사용 관문 함수 기반 준지도 비디오 객체 분할 모델의 경향성 분석"** <br>
+```35th Workshop on Image Processing and Image Understanding``` - Conference poster
+
+## SKILLS
 <span>
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
 </span>
@@ -77,20 +90,6 @@ Master Degree of Electrical and Computer Engineering ```(03/2022 ~ 02/2024)``` (
 <span>
     <img src="https://img.shields.io/badge/ pandas-150458?style=plastic&logo=Pandas&logoColor=white"/>
 </span>
-
-
-## Publications
-**KIM, Jiyun; KIM, JooHo; HONG, Sungeun. "G-TRACE: Grouped temporal recalibration for video object segmentation."** <br>
-```Image and Vision Computing, 2024, 105050``` - International paper
-
-**김지윤, 홍성은, "외부 메모리 어텐션 기반 준지도 비디오 객체 분할"** <br>
-```방송공학회논문지, 28(5):613-622, 2023``` - Domestic paper
-
-**김지윤, 홍성은, "준지도 비디오 객체 분할에서의 어텐션 기반 마스크 예측 경향성 분석"** <br>
-```Institute of Electronics and Information Engineers``` - Conference poster
-
-**김지윤, 홍성은, "재사용 관문 함수 기반 준지도 비디오 객체 분할 모델의 경향성 분석"** <br>
-```35th Workshop on Image Processing and Image Understanding``` - Conference poster
 
 </div>
 </div>
