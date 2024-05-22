@@ -27,6 +27,12 @@
 ## OBJECTIVE
 Reseach on deep learning & machine lerning for artificial intelligence
 
+## RESEARCH FIELD
+Video Object Segmentation, Semantic/Instance Segmentation, Object Detection/Tracking, Attention, Multi-modal Learning
+
+## INTERESTS
+3D Vision, Robotics, MLOps
+
 ## EDUCATION & WORK EXPERIENCE
 AIFFEL, Artificial Intelligence Innovation School: Research Course, Incheon/South Korea ```(06/2021 ~ 12/2021)```  
 Sungkyunkwan University, Seoul/AI & Media Lab ```(03/2022 ~ 02/2024)```   
@@ -85,7 +91,6 @@ Master Degree of Electrical and Computer Engineering ```(03/2022 ~ 02/2024)``` (
 
 **김지윤, 홍성은, "재사용 관문 함수 기반 준지도 비디오 객체 분할 모델의 경향성 분석"**
 ```35th Workshop on Image Processing and Image Understanding``` - Conference poster
-
 
 </div>
 </div>
