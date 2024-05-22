@@ -80,7 +80,7 @@ Master Degree of Electrical and Computer Engineering ```(03/2022 ~ 02/2024)``` (
 
 
 ## Publications
-**KIM, Jiyun; KIM, JooHo; HONG, Sungeun. "G-TRACE: Grouped temporal recalibration for video object segmentation."** \n
+**KIM, Jiyun; KIM, JooHo; HONG, Sungeun. "G-TRACE: Grouped temporal recalibration for video object segmentation."** <br>
 ```Image and Vision Computing, 2024, 105050``` - International paper
 
 **김지윤, 홍성은, "외부 메모리 어텐션 기반 준지도 비디오 객체 분할"**
