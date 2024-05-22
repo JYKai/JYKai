@@ -74,11 +74,6 @@ Master Degree of Electrical and Computer Engineering ```(03/2022 ~ 02/2024)``` (
 
 
 ## Publications
-**J. Park et al. "Regression Network Utilizing Cosine Similarity for Measuring Motion Blur in Facial Videos"**  
-```The 32nd Signal Processing Conference``` - Oral presentation/Best paper award  
-**J. Park et al. "Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation"**  
-```IEEE/CVF WACV 2024```  Poster presentation
-
 **KIM, Jiyun; KIM, JooHo; HONG, Sungeun. "G-TRACE: Grouped temporal recalibration for video object segmentation."**
 ```Image and Vision Computing, 2024, 105050``` - International paper
 **김지윤, 홍성은, "외부 메모리 어텐션 기반 준지도 비디오 객체 분할"**
