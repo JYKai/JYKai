@@ -64,7 +64,7 @@ Master Degree of Electrical and Computer Engineering ```(03/2022 ~ 02/2024)``` (
 </span>
 
 <span>
-    <img src="https://img.shields.io/badge/ cplusplus-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/>
 </span>
 
 <span>
